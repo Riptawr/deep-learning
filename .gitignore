@@ -4,5 +4,4 @@
 embeddings/data/
 embeddings/text8.zip
 
-nohup.out
-*.ipynb_checkpoints*
+.ipynb_checkpoints/
